@@ -132,6 +132,9 @@ https://kdrapel.github.io/jamm-nation0/
 **73 Million Seconds** by **Pulse**  
 https://kassoulet.github.io/73-Million-Seconds-by-Pulse/
 
+**Contrast** by **Oxygene**  
+https://kassoulet.github.io/Contrast_by_Oxygene/
+
 **Crystal Dream 2** by **Triton**  
 https://kassoulet.github.io/CrystalDreams2_by_Triton/
 
